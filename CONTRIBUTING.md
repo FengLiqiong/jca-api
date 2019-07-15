@@ -1,4 +1,4 @@
-# Contributing to Jakarta&trade; Connectors
+# Contributing to Jakarta Connectors
 
 Thanks for your interest in this project.
 
